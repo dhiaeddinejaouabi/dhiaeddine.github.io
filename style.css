@@ -1,0 +1,23 @@
+body{
+align : center;
+
+}
+
+
+
+#sub{
+
+    background-color: rgb(20, 112, 173);
+    width: 20%;
+    padding: 10px;
+    border-radius: 50px;
+
+}
+.d{
+    width: 1000px;
+}
+:root{
+
+    background-color: rgb(202, 245, 245);
+    --h2-font_size:5rem ;
+}

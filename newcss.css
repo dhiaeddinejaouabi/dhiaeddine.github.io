@@ -1,0 +1,43 @@
+body{
+position :relative;
+text-align: center ;
+color: white;
+
+}
+.image{
+
+    opacity: initial;
+
+}
+.centred{
+position: absolute;
+top: 50%;
+left: 50%;
+transform: translate(-50%,-50%);
+text-shadow: 
+5px 5px rgb(0, 0, 0);
+5px 5px #000;
+5px 5px #000;
+5px 5px #000;
+
+color: rgb(255, 255, 255);
+font-family: cursive;
+font-size: 100px;
+
+}
+.about{
+
+    height: 500px;
+    
+}
+.photo{
+    height: 200px;
+
+
+}
+
+.aboutme{
+color: rgb(53, 53, 53);
+font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
